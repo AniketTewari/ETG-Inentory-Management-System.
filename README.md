@@ -1,7 +1,8 @@
 # ETG-Inentory-Management-System.
 
-This is an Inventory Mangagement System. 
+This is an **Inventory Mangagement System.** 
 In this, I have uploaded three files namely--
+
 1.record.json
 
 2.sales.json
@@ -23,4 +24,4 @@ The sales.json file also gets updated which keeps track of all the purchases. Th
 
 Hope, you find it useful!
 
-Thank You!!
+**Thank You!!**
