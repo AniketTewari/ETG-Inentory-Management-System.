@@ -1,8 +1,11 @@
 # ETG-Inentory-Management-System.
 
-This is an Inventory Mangagement System. In this, I have uploaded three files namely--
+This is an Inventory Mangagement System. 
+In this, I have uploaded three files namely--
 1.record.json
+
 2.sales.json
+
 3.Inventory Mangement System Source Code.ipynb
 
 
